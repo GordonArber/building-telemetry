@@ -1,0 +1,23 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=26d16dca_002Dc4cf_002D4da7_002Db839_002D2254f1f5a7c6/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GetTelemetryData_bad" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::58206616-1852-3C6B-CC5C-14250A06E62B::net6.0::BuildingTelemetryTests.GetTelemetryData_bad&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=3767ac1c_002D3255_002D4cb9_002Da92b_002D51b5b9748f70/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="GetTelemetryData_bad #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::58206616-1852-3C6B-CC5C-14250A06E62B::net6.0::BuildingTelemetryTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=741f6010_002Dde86_002D4982_002Db03b_002Def92d732ea82/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="DisplayNextSponsor_for_3_sponsors" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::58206616-1852-3C6B-CC5C-14250A06E62B::net6.0::BuildingTelemetryTests.DisplayNextSponsor_for_3_sponsors&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::58206616-1852-3C6B-CC5C-14250A06E62B::net6.0::BuildingTelemetryTests.GetTelemetryData_good&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::58206616-1852-3C6B-CC5C-14250A06E62B::net6.0::BuildingTelemetryTests.GetTelemetryData_bad&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b6b5f59c_002D0e39_002D4d7d_002D8439_002D5781cabbc6e6/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GetTelemetryData_bad #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::58206616-1852-3C6B-CC5C-14250A06E62B::net6.0::BuildingTelemetryTests.GetTelemetryData_bad&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
